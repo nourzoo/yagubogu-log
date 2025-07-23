@@ -2,3 +2,8 @@ yagu:
   label: Yagu
   permalink: /yagu
   description: yagu tag kkk
+
+github:
+  label: GitHub
+  permalink: /github
+  description: GitHub 관련 태그입니다.
