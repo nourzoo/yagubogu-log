@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyagubogu_log=self.webpackChunkyagubogu_log||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\uccab \ud3ec\uc2a4\ud2b8","permalink":"/yagubogu-log/blog/first-post","unlisted":false,"date":"2025-07-23T13:51:12.000Z"}]}')}}]);
