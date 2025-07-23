@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyagubogu_log=self.webpackChunkyagubogu_log||[]).push([[461],{536:g=>{g.exports=JSON.parse('{"metadata":{"permalink":"/yagubogu-log/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

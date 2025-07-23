@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyagubogu_log=self.webpackChunkyagubogu_log||[]).push([[1903],{1912:g=>{g.exports=JSON.parse('{"blogBasePath":"/yagubogu-log/blog","blogTitle":"Blog","authorsListPath":"/yagubogu-log/blog/authors"}')}}]);
