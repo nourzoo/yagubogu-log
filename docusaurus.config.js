@@ -94,7 +94,7 @@ const config = {
                         position: 'left',
                         label: 'Tutorial',
                     },
-                    {to: '/yagu', label: 'Yagu', position: 'left'},
+                    {to: '/tags/yagu', label: 'Yagu', position: 'left'},
                     {
                         href: 'https://github.com/facebook/docusaurus',
                         label: 'GitHub',
